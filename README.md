@@ -5,7 +5,7 @@ A modern web-based School Timetable Management System built using **Flask**, **B
 
 ---
 
-## 🚀 Features
+## 🚀 FEATURE
 
 ### 📊 Dashboard
 - Beautiful admin dashboard
@@ -73,4 +73,4 @@ Configure:
 ### Database
 - SQLite
 
--
+
