@@ -73,4 +73,11 @@ Configure:
 ### Database
 - SQLite
 
+👩‍💻 Author
+
+Jaya Rathore
+
+B.Tech Computer Science Engineering
+Python Full Stack Developer
+Flask | Python | SQL | Web Development
 
